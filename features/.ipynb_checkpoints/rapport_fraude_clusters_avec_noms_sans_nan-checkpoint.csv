@@ -1,0 +1,7 @@
+id,username,cluster,is_fraud_isolation,is_fraud_svm,description
+1,bruyan,1,1.0,1.0,"plusieurs échecs de transactions, KYC non validé, compte inactif depuis longtemps"
+63,Bertille Medjo,0,1.0,1.0,"KYC non validé, compte inactif depuis longtemps"
+80,Valantine ngewih Ayeah,0,1.0,1.0,"KYC non validé, compte inactif depuis longtemps"
+2675,GAFFARSAVADOGO ,2,1.0,1.0,"KYC non validé, compte inactif depuis longtemps"
+2676,Baracuda,2,1.0,1.0,"KYC non validé, compte inactif depuis longtemps"
+2677,Coulibaly n'golo ,2,1.0,1.0,"KYC non validé, compte inactif depuis longtemps"
