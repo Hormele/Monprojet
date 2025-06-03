@@ -1,0 +1,6 @@
+id,username,matricule,cluster_kmeans,is_fraud_isolation,is_fraud_svm,description
+1,bruyan,SP20201A,2,1.0,1.0,compte inactif depuis longtemps
+80,Valantine ngewih Ayeah,SP202280U,0,1.0,1.0,compte inactif depuis longtemps
+111,Kemte tchanegha lyn VANeLLE,SP2022111U,0,1.0,1.0,compte inactif depuis longtemps
+2336,claveryaka,SP20242336A,0,1.0,1.0,compte inactif depuis longtemps
+2486,vodalbert ,SP20242486M,0,1.0,1.0,compte inactif depuis longtemps

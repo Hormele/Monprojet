@@ -1,0 +1,4 @@
+cluster_kmeans,total_utilisateurs,nb_fraudes_isoforest,nb_fraudes_svm,taux_fraude_isoforest (%),taux_fraude_svm (%)
+0,34944,1400,976,4.01,2.79
+1,2680,2039,774,76.08,28.88
+2,360,360,360,100.0,100.0
